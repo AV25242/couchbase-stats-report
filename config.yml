@@ -1,0 +1,4 @@
+address: couchbase://phonehome.hq.couchbase.com
+bucket: sdk_stats
+username: arunv
+password: EiJoh0ai
